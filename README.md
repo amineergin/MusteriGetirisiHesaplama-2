@@ -16,5 +16,5 @@ seti her satış işleminde oluşan kayıtlardan meydana gelmektedir. Bunun anla
 tablo tekilleştirilmemiştir. Diğer bir ifade ile belirli demografik özelliklere sahip bir
 kullanıcı birden fazla alışveriş yapmış olabilir.
 
-#Açıklama
+# Açıklama
 Her kod bloğunda kodun hangi soruyu cevapladığı belirtilmiştir.
